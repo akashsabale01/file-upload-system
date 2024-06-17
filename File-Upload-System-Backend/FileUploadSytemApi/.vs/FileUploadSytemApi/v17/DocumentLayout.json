@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\Dot Net Training\\Final-Assement\\file-upload-system\\File-Upload-System-Backend\\FileUploadSytemApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D22B13B7-9A95-41AD-85EB-A5134B2C2F7A}|FileUploadSytemApi\\FileUploadSytemApi.csproj|c:\\users\\hp\\desktop\\dot net training\\final-assement\\file-upload-system\\file-upload-system-backend\\fileuploadsytemapi\\fileuploadsytemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D22B13B7-9A95-41AD-85EB-A5134B2C2F7A}|FileUploadSytemApi\\FileUploadSytemApi.csproj|solutionrelative:fileuploadsytemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D22B13B7-9A95-41AD-85EB-A5134B2C2F7A}|FileUploadSytemApi\\FileUploadSytemApi.csproj|c:\\users\\hp\\desktop\\dot net training\\final-assement\\file-upload-system\\file-upload-system-backend\\fileuploadsytemapi\\fileuploadsytemapi\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D22B13B7-9A95-41AD-85EB-A5134B2C2F7A}|FileUploadSytemApi\\FileUploadSytemApi.csproj|solutionrelative:fileuploadsytemapi\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D22B13B7-9A95-41AD-85EB-A5134B2C2F7A}|FileUploadSytemApi\\FileUploadSytemApi.csproj|c:\\users\\hp\\desktop\\dot net training\\final-assement\\file-upload-system\\file-upload-system-backend\\fileuploadsytemapi\\fileuploadsytemapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D22B13B7-9A95-41AD-85EB-A5134B2C2F7A}|FileUploadSytemApi\\FileUploadSytemApi.csproj|solutionrelative:fileuploadsytemapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D22B13B7-9A95-41AD-85EB-A5134B2C2F7A}|FileUploadSytemApi\\FileUploadSytemApi.csproj|c:\\users\\hp\\desktop\\dot net training\\final-assement\\file-upload-system\\file-upload-system-backend\\fileuploadsytemapi\\fileuploadsytemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D22B13B7-9A95-41AD-85EB-A5134B2C2F7A}|FileUploadSytemApi\\FileUploadSytemApi.csproj|solutionrelative:fileuploadsytemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D22B13B7-9A95-41AD-85EB-A5134B2C2F7A}|FileUploadSytemApi\\FileUploadSytemApi.csproj|c:\\users\\hp\\desktop\\dot net training\\final-assement\\file-upload-system\\file-upload-system-backend\\fileuploadsytemapi\\fileuploadsytemapi\\models\\entities\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D22B13B7-9A95-41AD-85EB-A5134B2C2F7A}|FileUploadSytemApi\\FileUploadSytemApi.csproj|solutionrelative:fileuploadsytemapi\\models\\entities\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D22B13B7-9A95-41AD-85EB-A5134B2C2F7A}|FileUploadSytemApi\\FileUploadSytemApi.csproj|c:\\users\\hp\\desktop\\dot net training\\final-assement\\file-upload-system\\file-upload-system-backend\\fileuploadsytemapi\\fileuploadsytemapi\\models\\dtos\\filedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D22B13B7-9A95-41AD-85EB-A5134B2C2F7A}|FileUploadSytemApi\\FileUploadSytemApi.csproj|solutionrelative:fileuploadsytemapi\\models\\dtos\\filedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D22B13B7-9A95-41AD-85EB-A5134B2C2F7A}|FileUploadSytemApi\\FileUploadSytemApi.csproj|c:\\users\\hp\\desktop\\dot net training\\final-assement\\file-upload-system\\file-upload-system-backend\\fileuploadsytemapi\\fileuploadsytemapi\\data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D22B13B7-9A95-41AD-85EB-A5134B2C2F7A}|FileUploadSytemApi\\FileUploadSytemApi.csproj|solutionrelative:fileuploadsytemapi\\data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\Desktop\\Dot Net Training\\Final-Assement\\file-upload-system\\File-Upload-System-Backend\\FileUploadSytemApi\\FileUploadSytemApi\\Migrations\\20240617065547_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileUploadSytemApi\\Migrations\\20240617065547_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D22B13B7-9A95-41AD-85EB-A5134B2C2F7A}|FileUploadSytemApi\\FileUploadSytemApi.csproj|c:\\users\\hp\\desktop\\dot net training\\final-assement\\file-upload-system\\file-upload-system-backend\\fileuploadsytemapi\\fileuploadsytemapi\\migrations\\20240617065547_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D22B13B7-9A95-41AD-85EB-A5134B2C2F7A}|FileUploadSytemApi\\FileUploadSytemApi.csproj|solutionrelative:fileuploadsytemapi\\migrations\\20240617065547_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,25 +43,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Dot Net Training\\Final-Assement\\file-upload-system\\File-Upload-System-Backend\\FileUploadSytemApi\\FileUploadSytemApi\\Program.cs",
-              "RelativeDocumentMoniker": "FileUploadSytemApi\\Program.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Dot Net Training\\Final-Assement\\file-upload-system\\File-Upload-System-Backend\\FileUploadSytemApi\\FileUploadSytemApi\\Program.cs",
-              "RelativeToolTip": "FileUploadSytemApi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T06:52:58.4Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Dot Net Training\\Final-Assement\\file-upload-system\\File-Upload-System-Backend\\FileUploadSytemApi\\FileUploadSytemApi\\appsettings.json",
               "RelativeDocumentMoniker": "FileUploadSytemApi\\appsettings.json",
               "ToolTip": "C:\\Users\\hp\\Desktop\\Dot Net Training\\Final-Assement\\file-upload-system\\File-Upload-System-Backend\\FileUploadSytemApi\\FileUploadSytemApi\\appsettings.json",
               "RelativeToolTip": "FileUploadSytemApi\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-06-17T06:49:24.18Z",
               "EditorCaption": ""
@@ -76,25 +63,11 @@
               "RelativeToolTip": "FileUploadSytemApi\\Data\\DatabaseContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T06:49:16.321Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-17T06:49:16.321Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FilesController.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Dot Net Training\\Final-Assement\\file-upload-system\\File-Upload-System-Backend\\FileUploadSytemApi\\FileUploadSytemApi\\Controllers\\FilesController.cs",
-              "RelativeDocumentMoniker": "FileUploadSytemApi\\Controllers\\FilesController.cs",
-              "ToolTip": "C:\\Users\\hp\\Desktop\\Dot Net Training\\Final-Assement\\file-upload-system\\File-Upload-System-Backend\\FileUploadSytemApi\\FileUploadSytemApi\\Controllers\\FilesController.cs",
-              "RelativeToolTip": "FileUploadSytemApi\\Controllers\\FilesController.cs",
-              "ViewState": "AQIAAAwAAAAgAAAAAAAgwB0AAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T05:47:01.453Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "File.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Dot Net Training\\Final-Assement\\file-upload-system\\File-Upload-System-Backend\\FileUploadSytemApi\\FileUploadSytemApi\\Models\\Entities\\File.cs",
               "RelativeDocumentMoniker": "FileUploadSytemApi\\Models\\Entities\\File.cs",
@@ -107,6 +80,32 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Dot Net Training\\Final-Assement\\file-upload-system\\File-Upload-System-Backend\\FileUploadSytemApi\\FileUploadSytemApi\\Program.cs",
+              "RelativeDocumentMoniker": "FileUploadSytemApi\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Dot Net Training\\Final-Assement\\file-upload-system\\File-Upload-System-Backend\\FileUploadSytemApi\\FileUploadSytemApi\\Program.cs",
+              "RelativeToolTip": "FileUploadSytemApi\\Program.cs",
+              "ViewState": "AQIAABQAAACAMzMzMzMbwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T06:52:58.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Dot Net Training\\Final-Assement\\file-upload-system\\File-Upload-System-Backend\\FileUploadSytemApi\\FileUploadSytemApi\\Models\\DTOs\\FileDto.cs",
+              "RelativeDocumentMoniker": "FileUploadSytemApi\\Models\\DTOs\\FileDto.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Dot Net Training\\Final-Assement\\file-upload-system\\File-Upload-System-Backend\\FileUploadSytemApi\\FileUploadSytemApi\\Models\\DTOs\\FileDto.cs",
+              "RelativeToolTip": "FileUploadSytemApi\\Models\\DTOs\\FileDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T09:27:33.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
               "Title": "20240617065547_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Dot Net Training\\Final-Assement\\file-upload-system\\File-Upload-System-Backend\\FileUploadSytemApi\\FileUploadSytemApi\\Migrations\\20240617065547_InitialCreate.cs",
@@ -115,8 +114,7 @@
               "RelativeToolTip": "FileUploadSytemApi\\Migrations\\20240617065547_InitialCreate.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T06:55:48.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-17T06:55:48.011Z"
             }
           ]
         }

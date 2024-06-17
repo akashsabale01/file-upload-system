@@ -1,4 +1,5 @@
 ﻿using FileUploadSytemApi.Data;
+using FileUploadSytemApi.Models.DTOs;
 using Microsoft.AspNetCore.Mvc;
 
 namespace FileUploadSytemApi.Controllers
@@ -16,7 +17,7 @@ namespace FileUploadSytemApi.Controllers
 
         [HttpPost]
         [Route("upload")]
-        public async Task<IActionResult> UploadFile([FromForm] IFormFile uploadedFile)
+        public async Task<IActionResult> UploadFile([FromForm] string fileName, [FromForm] IFormFile uploadedFile)
         {
             if (uploadedFile == null || uploadedFile.Length == 0)
                 return BadRequest("No file uploaded");
@@ -26,7 +27,7 @@ namespace FileUploadSytemApi.Controllers
                 await uploadedFile.CopyToAsync(memoryStream);
                 var file = new Models.Entities.File
                 {
-                    FileName = uploadedFile.FileName,
+                    FileName = fileName,
                     FileData = memoryStream.ToArray(),
                 };
 
@@ -36,6 +37,29 @@ namespace FileUploadSytemApi.Controllers
                 return Ok(file);
             }
         }
+
+        /*        [HttpPost]
+                [Route("upload")]
+                public async Task<IActionResult> UploadFile([FromForm] FileDto fileDto)
+                {
+                    if (fileDto == null)
+                        return BadRequest("No file uploaded");
+
+                    using (var memoryStream = new MemoryStream())
+                    {
+                        await fileDto.FileData.CopyToAsync(memoryStream);
+                        var file = new Models.Entities.File
+                        {
+                            FileName = uploadedFile.FileName,
+                            FileData = memoryStream.ToArray(),
+                        };
+
+                        databaseContext.Files.Add(file);
+                        await databaseContext.SaveChangesAsync();
+
+                        return Ok(file);
+                    }
+                }*/
 
         [HttpGet]
         public IActionResult GetAllFiles()
